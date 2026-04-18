@@ -1,0 +1,10 @@
+{
+  "name": "USDXGO",
+  "type": "BEP20",
+  "symbol": "USDXGO",
+  "decimals": 18,
+  "website": "https://bscscan.com/token/0x43cbb0566b2641c462def53af0e34d7b204b74f7",
+  "explorer": "https://bscscan.com/token/0x43cbb0566b2641c462def53af0e34d7b204b74f7",
+  "status": "active",
+  "id": "0x43cbb0566b2641c462def53af0e34d7b204b74f7"
+}
