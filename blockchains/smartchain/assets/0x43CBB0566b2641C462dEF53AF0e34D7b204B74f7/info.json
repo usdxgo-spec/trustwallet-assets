@@ -4,15 +4,11 @@
   "symbol": "USDXGO",
   "decimals": 18,
   "website": "https://www.usdxgo.com",
-  "explorer": "https://bscscan.com/token/0x43CBB0566b2641C462dEF53AF0e34d7b204b74f7",
+  "explorer": "https://bscscan.com/token/0x43CBB0566b2641C462dEF53AF0e34D7b204B74f7",
   "status": "active",
-  "id": "0x43CBB0566b2641C462dEF53AF0e34d7b204b74f7",
+  "id": "0x43CBB0566b2641C462dEF53AF0e34D7b204B74f7",
   "description": "USDXGO is a BEP20 token on BNB Smart Chain designed for decentralized finance and digital asset transactions.",
   "links": [
-    {
-      "name": "website",
-      "url": "https://www.usdxgo.com"
-    },
     {
       "name": "twitter",
       "url": "https://twitter.com/usdxgo"
